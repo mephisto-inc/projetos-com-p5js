@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "checkJs": true,
+    "types": ["p5", "p5/global"]
+  },
+  "include": ["**/*.js"]
+}

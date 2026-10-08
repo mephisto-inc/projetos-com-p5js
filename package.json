@@ -1,0 +1,20 @@
+{
+  "name": "projetos-com-p5js",
+  "version": "1.0.0",
+  "description": "You have downloaded the complete p5.js library ZIP file, yay!",
+  "main": "sketch.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mephisto-inc/projetos-com-p5js.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mephisto-inc/projetos-com-p5js/issues"
+  },
+  "homepage": "https://github.com/mephisto-inc/projetos-com-p5js#readme",
+  "devDependencies": {
+    "@types/p5": "^1.7.7"
+  }
+}
